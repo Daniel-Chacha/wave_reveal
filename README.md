@@ -113,7 +113,11 @@ Verify your current branch:
 ```bash
 git branch
 ```
+Merge the changes of branch main to your branch
 
+``` bash
+git merge main
+```
 ---
 
 
