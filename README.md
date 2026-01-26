@@ -94,17 +94,7 @@ Enables the project’s virtual environment to be selectable as a kernel inside 
 
 ---
 
-## 5. Getting started with Jupyter Notebook
-
-
-Install "Jupyter" extension by Microsoft.
-Then you can create jupyter notebook files normally on vs code as you do with other files but the filename ends with .ipynb
-After creating  a file click **Kernel → Change Kernel → Python (venv)...Recommended**.
-You are now good to go.
-Create cells to write your code .
----
-
-## 6. Creating and Using a Feature Branch
+## 5.Creating and Using a Feature Branch
 
 Before making changes, create a new branch:
 
@@ -124,6 +114,17 @@ Verify your current branch:
 git branch
 ```
 
+---
+
+
+
+## 6.  Getting started with Jupyter Notebook 
+
+Install "Jupyter" extension by Microsoft.
+Then you can create jupyter notebook files normally on vs code as you do with other files but the filename ends with .ipynb
+After creating  a file click **Kernel → Change Kernel → Python (venv)...Recommended**.
+You are now good to go.
+Create cells to write your code .
 ---
 
 ## 7. Pushing Your Branch to the Remote Repository
