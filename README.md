@@ -99,13 +99,13 @@ Enables the project’s virtual environment to be selectable as a kernel inside 
 Before making changes, create a new branch:
 
 ```bash
-git checkout -b feature/<branch-name>
+git checkout -b <branch-name>
 ```
 
 Example:
 
 ```bash
-git checkout -b feature/data-preprocessing
+git checkout -b daniel
 ```
 
 Verify your current branch:
@@ -132,7 +132,7 @@ Create cells to write your code .
 After making changes and committing them:
 
 ```bash
-git push origin feature/<branch-name>
+git push origin <branch-name>
 ```
 
 ---
